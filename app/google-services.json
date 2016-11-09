@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1051417320723",
+    "firebase_url": "https://atmconsultoria-2a69d.firebaseio.com",
+    "project_id": "atmconsultoria-2a69d",
+    "storage_bucket": "atmconsultoria-2a69d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051417320723:android:07f95dcc5d90aa6c",
+        "android_client_info": {
+          "package_name": "atmconsultoria.android.curso.com.atmconsultoria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051417320723-qpu9n1bsv8797pgu01odm0llmb61jodj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "atmconsultoria.android.curso.com.atmconsultoria",
+            "certificate_hash": "97660BC93A6C65BDA4E7D67EE7A305CFEEA2889C"
+          }
+        },
+        {
+          "client_id": "1051417320723-a6qn8gn90dmrd7dnmucipqcpiuuat1m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9-5Bxss4_vujaJH70_D2oo0xcBGaNeOc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051417320723-a6qn8gn90dmrd7dnmucipqcpiuuat1m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
