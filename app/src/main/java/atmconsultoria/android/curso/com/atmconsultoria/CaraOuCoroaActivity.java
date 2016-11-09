@@ -10,6 +10,7 @@ public class CaraOuCoroaActivity extends AppCompatActivity {
 
     ImageView moeda;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
