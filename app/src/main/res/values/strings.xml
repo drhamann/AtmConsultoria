@@ -2,4 +2,7 @@
     <string name="app_name">AtmConsultoria</string>
     <string name="lbl_detalhes">Sobre a empresa</string>
     <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="loginUdemi">ismaelst@gmail.com</string>
+    <string name="PassUdemi">ndd@123</string>
+
 </resources>
